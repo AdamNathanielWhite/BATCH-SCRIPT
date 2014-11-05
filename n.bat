@@ -1,0 +1,1 @@
+start C:\Progra~2\Notepad++\notepad++.exe %*
